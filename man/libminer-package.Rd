@@ -8,6 +8,14 @@
 \description{
 Provides functions for learning about your R libraries, and the packages you have installed.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/corviday/libminer}
+  \item Report bugs at \url{https://github.com/corviday/libminer/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Lee Zeman \email{lzeman@uvic.ca}
 
